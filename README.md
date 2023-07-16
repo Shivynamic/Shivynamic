@@ -1,5 +1,6 @@
-### Hi there 👋 I am Shivangi Sharma
-Developer | Data Engineer | Open-source Enthusiast | MERN Stack Specialist
+
+<h2 align='center'><samp><strong>Hi there 👋 I am Shivangi Sharma</strong></samp></h2>
+<p align='center'>Software Developer | Data Engineer | Open-source Enthusiast | MERN Stack Specialist</p>
 
 👋 Hello there! I am a passionate developer and data engineer with a strong focus on MERN (MongoDB, Express.js, React.js, Node.js) stack development. I love building scalable and performant applications that leverage the power of modern technologies.
 
