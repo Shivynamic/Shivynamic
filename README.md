@@ -12,7 +12,7 @@
 
 🚀 On GitHub, you'll find my personal projects, open-source contributions, and experiments with cutting-edge technologies. I'm a strong advocate for clean code, best practices, and continuous learning.
 
-📫 Let's connect! If you're interested in collaborating on MERN stack projects, discussing data engineering challenges, or engaging in open-source initiatives, feel free to reach out to me through GitHub or [insert preferred contact method]. I'm always excited to connect with fellow developers and work on meaningful projects.
+📫 Let's connect! If you're interested in collaborating on MERN stack projects, discussing data engineering challenges, or engaging in open-source initiatives, feel free to reach out to me through GitHub. I'm always excited to connect with fellow developers and work on meaningful projects.
 
 Let's build innovative solutions, harness the power of data, and contribute to the open-source community together! ✨
 
