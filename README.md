@@ -15,11 +15,8 @@ Developer | Data Engineer | Open-source Enthusiast | MERN Stack Specialist
 
 Let's build innovative solutions, harness the power of data, and contribute to the open-source community together! ✨
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/salesforce.svg' alt='salesforce' height='40'>](https://trailblazer.me/id/lchugani)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivynamic)  
 
-![Profile views](https://gpvc.arturio.dev/shivynamic)  
 <!--
 **Shivynamic/Shivynamic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
