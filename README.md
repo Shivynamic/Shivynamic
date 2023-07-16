@@ -10,7 +10,7 @@ Skills: NODE JS / REACT / JS / WEB SOCKET
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chuganilokesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lokesh-chugani//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/salesforce.svg' alt='salesforce' height='40'>](https://trailblazer.me/id/lchugani)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chuganilokesh)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shivynamic)  
 
 ![Profile views](https://gpvc.arturio.dev/chuganilokesh)  
 <!--
