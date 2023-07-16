@@ -1,11 +1,19 @@
-### Hi there 👋
-I am a passionate programmer and Software developer exploring ways technology can provide  practical solutions to everyday problems
+### Hi there 👋 I am Shivangi Sharma
+Developer | Data Engineer | Open-source Enthusiast | MERN Stack Specialist
 
-Skills: NODE JS / REACT / JS / WEB SOCKET
+👋 Hello there! I am a passionate developer and data engineer with a strong focus on MERN (MongoDB, Express.js, React.js, Node.js) stack development. I love building scalable and performant applications that leverage the power of modern technologies.
 
-- 🔭 I’m currently working on Node JS with IOT  
-- 🌱 I’m currently learning AWS 
-- ⚡ Fun fact: Don't judge a programmer by it's commit history 
+💻 As a MERN stack specialist, I have hands-on experience in developing robust back-end APIs, building dynamic front-end interfaces, and designing efficient databases. I'm skilled in JavaScript, HTML, CSS, and have a solid understanding of data modeling, RESTful architectures, and deployment strategies.
+
+📊 I'm also a data enthusiast who enjoys working with large datasets, designing data pipelines, and implementing data-driven solutions. I'm familiar with data warehousing, ETL (Extract, Transform, Load) processes.
+
+🌱 As an open-source enthusiast, I try to contribute to the developer community by sharing my knowledge and collaborating on exciting projects. I believe in the power of open-source software to drive innovation and improve the lives of developers worldwide.
+
+🚀 On GitHub, you'll find my personal projects, open-source contributions, and experiments with cutting-edge technologies. I'm a strong advocate for clean code, best practices, and continuous learning.
+
+📫 Let's connect! If you're interested in collaborating on MERN stack projects, discussing data engineering challenges, or engaging in open-source initiatives, feel free to reach out to me through GitHub or [insert preferred contact method]. I'm always excited to connect with fellow developers and work on meaningful projects.
+
+Let's build innovative solutions, harness the power of data, and contribute to the open-source community together! ✨
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chuganilokesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lokesh-chugani//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/salesforce.svg' alt='salesforce' height='40'>](https://trailblazer.me/id/lchugani)  
