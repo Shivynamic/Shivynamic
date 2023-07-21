@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I am Shivangi Sharma</h1>
 <h3 align="center">Software Developer | Data Engineer | Open-source Enthusiast | MERN Stack Specialist</h3>
-
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 
 👋 Hello there! I am a passionate developer and data engineer with a strong focus on MERN (MongoDB, Express.js, React.js, Node.js) stack development. I love building scalable and performant applications that leverage the power of modern technologies.
 
@@ -23,6 +23,7 @@ Let's build innovative solutions, harness the power of data, and contribute to t
 <a href="https://www.youtube.com/@theloophead4213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theloophead4213" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aigen1305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aigen1305" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shewe__codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shewe__codes" height="30" width="40" /></a>
+<iconify-icon icon="skill-icons:vercel-light"></iconify-icon>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
